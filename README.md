@@ -5,9 +5,9 @@
 
     **1.** Create a _[customer performance report](https://github.com/vip-99/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/vip-99/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Identify the businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
@@ -18,9 +18,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/vip-99/Excel-Sales-Analytics/blob/main/P%20_%20L.pdf)_ & _[Months](https://github.com/vip-99/Excel-Sales-Analytics/blob/main/P%20_%20L%20Month.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/vip-99/Excel-Sales-Analytics/blob/main/exer%20P%20_%20L%20for%20market.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
